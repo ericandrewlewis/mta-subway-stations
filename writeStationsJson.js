@@ -6,12 +6,10 @@ const fetchStations = () => fetch('http://web.mta.info/developers/data/nyct/subw
   .then(response => response.text())
   .then(text => new Promise((resolve, reject) => {
     parse(text, { columns: true }, (err, stations) => {
-      const map = stations.reduce((map, station) => {
-        map[station["Station ID"]] = station;
-        map[station["Station ID"]]['Daytime Routes'] = map[station["Station ID"]]['Daytime Routes'].split(' ');
-        return map;
-      }, {});
-      resolve(map);
+      stations.forEach(station => {
+        station['Daytime Routes'] = station['Daytime Routes'].split(' ');
+      });
+      resolve(stations);
     });
   }));
 
