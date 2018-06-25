@@ -6,7 +6,11 @@ const fetchStations = () => fetch('http://web.mta.info/developers/data/nyct/subw
   .then(response => response.text())
   .then(text => new Promise((resolve, reject) => {
     parse(text, { columns: true }, (err, stations) => {
-      resolve(stations);
+      const map = stations.reduce((map, station) => {
+        map[station["Station ID"]] = station;
+        return map;
+      }, {});
+      resolve(map);
     });
   }));
 
