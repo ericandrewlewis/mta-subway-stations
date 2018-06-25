@@ -1,6 +1,6 @@
 {
   "name": "mta-subway-stations",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Information about all NYC subway stations",
   "main": "index.js",
   "scripts": {
