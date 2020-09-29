@@ -14,7 +14,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "csv-parse": "^2.5.0",
-    "node-fetch": "^2.1.2"
+    "csv-parse": "^4.12.0",
+    "node-fetch": "^2.6.1"
   }
 }
