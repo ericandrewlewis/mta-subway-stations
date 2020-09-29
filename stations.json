@@ -13,7 +13,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.775036",
-    "GTFS Longitude": "-73.912034"
+    "GTFS Longitude": "-73.912034",
+    "North Direction Label": "",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "2",
@@ -29,7 +31,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.770258",
-    "GTFS Longitude": "-73.917843"
+    "GTFS Longitude": "-73.917843",
+    "North Direction Label": "Ditmars Blvd",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "3",
@@ -45,7 +49,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.766779",
-    "GTFS Longitude": "-73.921479"
+    "GTFS Longitude": "-73.921479",
+    "North Direction Label": "Astoria - Ditmars Blvd",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "4",
@@ -61,7 +67,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.76182",
-    "GTFS Longitude": "-73.925508"
+    "GTFS Longitude": "-73.925508",
+    "North Direction Label": "Astoria - Ditmars Blvd",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "5",
@@ -77,7 +85,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.756804",
-    "GTFS Longitude": "-73.929575"
+    "GTFS Longitude": "-73.929575",
+    "North Direction Label": "Astoria - Ditmars Blvd",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "6",
@@ -93,7 +103,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.752882",
-    "GTFS Longitude": "-73.932755"
+    "GTFS Longitude": "-73.932755",
+    "North Direction Label": "Astoria - Ditmars Blvd",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "7",
@@ -110,7 +122,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.76266",
-    "GTFS Longitude": "-73.967258"
+    "GTFS Longitude": "-73.967258",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "8",
@@ -127,7 +141,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.764811",
-    "GTFS Longitude": "-73.973347"
+    "GTFS Longitude": "-73.973347",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "9",
@@ -145,7 +161,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.764664",
-    "GTFS Longitude": "-73.980658"
+    "GTFS Longitude": "-73.980658",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "10",
@@ -162,7 +180,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.759901",
-    "GTFS Longitude": "-73.984139"
+    "GTFS Longitude": "-73.984139",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "11",
@@ -180,7 +200,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.754672",
-    "GTFS Longitude": "-73.986754"
+    "GTFS Longitude": "-73.986754",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "12",
@@ -198,7 +220,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.749567",
-    "GTFS Longitude": "-73.98795"
+    "GTFS Longitude": "-73.98795",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "13",
@@ -214,7 +238,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.745494",
-    "GTFS Longitude": "-73.988691"
+    "GTFS Longitude": "-73.988691",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "14",
@@ -230,7 +256,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.741303",
-    "GTFS Longitude": "-73.989344"
+    "GTFS Longitude": "-73.989344",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "15",
@@ -248,7 +276,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.735736",
-    "GTFS Longitude": "-73.990568"
+    "GTFS Longitude": "-73.990568",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "16",
@@ -264,7 +294,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.730328",
-    "GTFS Longitude": "-73.992629"
+    "GTFS Longitude": "-73.992629",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "17",
@@ -280,7 +312,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.724329",
-    "GTFS Longitude": "-73.997702"
+    "GTFS Longitude": "-73.997702",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "18",
@@ -296,7 +330,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.719527",
-    "GTFS Longitude": "-74.001775"
+    "GTFS Longitude": "-74.001775",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "19",
@@ -312,7 +348,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.718383",
-    "GTFS Longitude": "-74.00046"
+    "GTFS Longitude": "-74.00046",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "20",
@@ -328,11 +366,13 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.713282",
-    "GTFS Longitude": "-74.006978"
+    "GTFS Longitude": "-74.006978",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "21",
-    "Complex ID": "21",
+    "Complex ID": "624",
     "GTFS Stop ID": "R25",
     "Division": "BMT",
     "Line": "Broadway",
@@ -344,7 +384,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.710668",
-    "GTFS Longitude": "-74.011029"
+    "GTFS Longitude": "-74.011029",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "22",
@@ -360,7 +402,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.70722",
-    "GTFS Longitude": "-74.013342"
+    "GTFS Longitude": "-74.013342",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "23",
@@ -376,7 +420,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.703087",
-    "GTFS Longitude": "-74.012994"
+    "GTFS Longitude": "-74.012994",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Brooklyn"
   },
   {
     "Station ID": "24",
@@ -391,7 +437,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.6941",
-    "GTFS Longitude": "-73.991777"
+    "GTFS Longitude": "-73.991777",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Bay Ridge - 95 St"
   },
   {
     "Station ID": "25",
@@ -406,7 +454,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.69218",
-    "GTFS Longitude": "-73.985942"
+    "GTFS Longitude": "-73.985942",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Bay Ridge - 95 St"
   },
   {
     "Station ID": "26",
@@ -423,7 +473,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.690635",
-    "GTFS Longitude": "-73.981824"
+    "GTFS Longitude": "-73.981824",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island - Bay Ridge"
   },
   {
     "Station ID": "27",
@@ -440,7 +492,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.683666",
-    "GTFS Longitude": "-73.97881"
+    "GTFS Longitude": "-73.97881",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island - Bay Ridge"
   },
   {
     "Station ID": "28",
@@ -455,7 +509,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.677316",
-    "GTFS Longitude": "-73.98311"
+    "GTFS Longitude": "-73.98311",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Bay Ridge - 95 St"
   },
   {
     "Station ID": "29",
@@ -470,7 +526,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.670847",
-    "GTFS Longitude": "-73.988302"
+    "GTFS Longitude": "-73.988302",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Bay Ridge - 95 St"
   },
   {
     "Station ID": "30",
@@ -485,7 +543,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.665414",
-    "GTFS Longitude": "-73.992872"
+    "GTFS Longitude": "-73.992872",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Bay Ridge - 95 St"
   },
   {
     "Station ID": "31",
@@ -500,7 +560,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.660397",
-    "GTFS Longitude": "-73.998091"
+    "GTFS Longitude": "-73.998091",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Bay Ridge - 95 St"
   },
   {
     "Station ID": "32",
@@ -517,7 +579,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.655144",
-    "GTFS Longitude": "-74.003549"
+    "GTFS Longitude": "-74.003549",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island - Bay Ridge"
   },
   {
     "Station ID": "33",
@@ -532,7 +596,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.648939",
-    "GTFS Longitude": "-74.010006"
+    "GTFS Longitude": "-74.010006",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Bay Ridge - 95 St"
   },
   {
     "Station ID": "34",
@@ -547,7 +613,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.645069",
-    "GTFS Longitude": "-74.014034"
+    "GTFS Longitude": "-74.014034",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Bay Ridge - 95 St"
   },
   {
     "Station ID": "35",
@@ -563,7 +631,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.641362",
-    "GTFS Longitude": "-74.017881"
+    "GTFS Longitude": "-74.017881",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island - Bay Ridge"
   },
   {
     "Station ID": "36",
@@ -578,7 +648,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.634967",
-    "GTFS Longitude": "-74.023377"
+    "GTFS Longitude": "-74.023377",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "95 St"
   },
   {
     "Station ID": "37",
@@ -593,7 +665,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.629742",
-    "GTFS Longitude": "-74.02551"
+    "GTFS Longitude": "-74.02551",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "95 St"
   },
   {
     "Station ID": "38",
@@ -608,7 +682,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.622687",
-    "GTFS Longitude": "-74.028398"
+    "GTFS Longitude": "-74.028398",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "95 St"
   },
   {
     "Station ID": "39",
@@ -623,7 +699,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.616622",
-    "GTFS Longitude": "-74.030876"
+    "GTFS Longitude": "-74.030876",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": ""
   },
   {
     "Station ID": "40",
@@ -639,7 +717,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.68446",
-    "GTFS Longitude": "-73.97689"
+    "GTFS Longitude": "-73.97689",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "41",
@@ -655,7 +735,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.67705",
-    "GTFS Longitude": "-73.972367"
+    "GTFS Longitude": "-73.972367",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "42",
@@ -671,7 +753,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.661614",
-    "GTFS Longitude": "-73.962246"
+    "GTFS Longitude": "-73.962246",
+    "North Direction Label": "Manhattan & Franklin Av",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "43",
@@ -687,7 +771,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.655292",
-    "GTFS Longitude": "-73.961495"
+    "GTFS Longitude": "-73.961495",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "44",
@@ -703,7 +789,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.650527",
-    "GTFS Longitude": "-73.962982"
+    "GTFS Longitude": "-73.962982",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "45",
@@ -719,7 +807,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.644031",
-    "GTFS Longitude": "-73.964492"
+    "GTFS Longitude": "-73.964492",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "46",
@@ -735,7 +825,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.640927",
-    "GTFS Longitude": "-73.963891"
+    "GTFS Longitude": "-73.963891",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "47",
@@ -751,7 +843,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.635082",
-    "GTFS Longitude": "-73.962793"
+    "GTFS Longitude": "-73.962793",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "48",
@@ -767,7 +861,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.62927",
-    "GTFS Longitude": "-73.961639"
+    "GTFS Longitude": "-73.961639",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "49",
@@ -783,7 +879,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.625039",
-    "GTFS Longitude": "-73.960803"
+    "GTFS Longitude": "-73.960803",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "50",
@@ -799,7 +897,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.617618",
-    "GTFS Longitude": "-73.959399"
+    "GTFS Longitude": "-73.959399",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "51",
@@ -815,7 +915,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.60867",
-    "GTFS Longitude": "-73.957734"
+    "GTFS Longitude": "-73.957734",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "52",
@@ -831,7 +933,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.5993",
-    "GTFS Longitude": "-73.955929"
+    "GTFS Longitude": "-73.955929",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "53",
@@ -847,7 +951,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.595246",
-    "GTFS Longitude": "-73.955161"
+    "GTFS Longitude": "-73.955161",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "54",
@@ -863,7 +969,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.586896",
-    "GTFS Longitude": "-73.954155"
+    "GTFS Longitude": "-73.954155",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Brighton Beach & Coney Island"
   },
   {
     "Station ID": "55",
@@ -879,7 +987,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.577621",
-    "GTFS Longitude": "-73.961376"
+    "GTFS Longitude": "-73.961376",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "56",
@@ -894,7 +1004,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.576312",
-    "GTFS Longitude": "-73.968501"
+    "GTFS Longitude": "-73.968501",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Stillwell Av"
   },
   {
     "Station ID": "57",
@@ -910,7 +1022,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.576127",
-    "GTFS Longitude": "-73.975939"
+    "GTFS Longitude": "-73.975939",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Stillwell Av"
   },
   {
     "Station ID": "58",
@@ -928,7 +1042,9 @@
     ],
     "Structure": "Viaduct",
     "GTFS Latitude": "40.577422",
-    "GTFS Longitude": "-73.981233"
+    "GTFS Longitude": "-73.981233",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": ""
   },
   {
     "Station ID": "59",
@@ -943,7 +1059,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.646292",
-    "GTFS Longitude": "-73.994324"
+    "GTFS Longitude": "-73.994324",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "60",
@@ -958,7 +1076,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.640914",
-    "GTFS Longitude": "-73.994304"
+    "GTFS Longitude": "-73.994304",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "61",
@@ -973,7 +1093,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.63626",
-    "GTFS Longitude": "-73.994791"
+    "GTFS Longitude": "-73.994791",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "62",
@@ -988,7 +1110,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.631435",
-    "GTFS Longitude": "-73.995476"
+    "GTFS Longitude": "-73.995476",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "63",
@@ -1003,7 +1127,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.626472",
-    "GTFS Longitude": "-73.996895"
+    "GTFS Longitude": "-73.996895",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "64",
@@ -1018,7 +1144,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.619589",
-    "GTFS Longitude": "-73.998864"
+    "GTFS Longitude": "-73.998864",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "65",
@@ -1033,7 +1161,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.613501",
-    "GTFS Longitude": "-74.00061"
+    "GTFS Longitude": "-74.00061",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "66",
@@ -1048,7 +1178,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.607954",
-    "GTFS Longitude": "-74.001736"
+    "GTFS Longitude": "-74.001736",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "67",
@@ -1063,7 +1195,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.604556",
-    "GTFS Longitude": "-73.998168"
+    "GTFS Longitude": "-73.998168",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "68",
@@ -1078,7 +1212,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.601875",
-    "GTFS Longitude": "-73.993728"
+    "GTFS Longitude": "-73.993728",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "69",
@@ -1093,7 +1229,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.597704",
-    "GTFS Longitude": "-73.986829"
+    "GTFS Longitude": "-73.986829",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "70",
@@ -1108,7 +1246,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.588841",
-    "GTFS Longitude": "-73.983765"
+    "GTFS Longitude": "-73.983765",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "71",
@@ -1123,7 +1263,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.635064",
-    "GTFS Longitude": "-74.011719"
+    "GTFS Longitude": "-74.011719",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "72",
@@ -1138,7 +1280,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.631386",
-    "GTFS Longitude": "-74.005351"
+    "GTFS Longitude": "-74.005351",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "73",
@@ -1153,7 +1297,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.624842",
-    "GTFS Longitude": "-73.996353"
+    "GTFS Longitude": "-73.996353",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "74",
@@ -1168,7 +1314,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.620671",
-    "GTFS Longitude": "-73.990414"
+    "GTFS Longitude": "-73.990414",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "75",
@@ -1183,7 +1331,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.61741",
-    "GTFS Longitude": "-73.985026"
+    "GTFS Longitude": "-73.985026",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "76",
@@ -1198,7 +1348,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.611815",
-    "GTFS Longitude": "-73.981848"
+    "GTFS Longitude": "-73.981848",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "77",
@@ -1213,7 +1365,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.603923",
-    "GTFS Longitude": "-73.980353"
+    "GTFS Longitude": "-73.980353",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "78",
@@ -1228,7 +1382,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.597473",
-    "GTFS Longitude": "-73.979137"
+    "GTFS Longitude": "-73.979137",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "79",
@@ -1243,7 +1399,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.592721",
-    "GTFS Longitude": "-73.97823"
+    "GTFS Longitude": "-73.97823",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "80",
@@ -1259,7 +1417,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.700492",
-    "GTFS Longitude": "-73.828294"
+    "GTFS Longitude": "-73.828294",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "81",
@@ -1274,7 +1434,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.697418",
-    "GTFS Longitude": "-73.836345"
+    "GTFS Longitude": "-73.836345",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "82",
@@ -1290,7 +1452,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.695178",
-    "GTFS Longitude": "-73.84433"
+    "GTFS Longitude": "-73.84433",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "83",
@@ -1306,7 +1470,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.693879",
-    "GTFS Longitude": "-73.851576"
+    "GTFS Longitude": "-73.851576",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "84",
@@ -1321,7 +1487,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.692435",
-    "GTFS Longitude": "-73.86001"
+    "GTFS Longitude": "-73.86001",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "85",
@@ -1337,7 +1505,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.691324",
-    "GTFS Longitude": "-73.867139"
+    "GTFS Longitude": "-73.867139",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "86",
@@ -1352,7 +1522,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.689941",
-    "GTFS Longitude": "-73.87255"
+    "GTFS Longitude": "-73.87255",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "87",
@@ -1368,7 +1540,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.683194",
-    "GTFS Longitude": "-73.873785"
+    "GTFS Longitude": "-73.873785",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "88",
@@ -1384,7 +1558,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.68141",
-    "GTFS Longitude": "-73.880039"
+    "GTFS Longitude": "-73.880039",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "89",
@@ -1399,7 +1575,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.679947",
-    "GTFS Longitude": "-73.884639"
+    "GTFS Longitude": "-73.884639",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "90",
@@ -1415,7 +1593,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.678024",
-    "GTFS Longitude": "-73.891688"
+    "GTFS Longitude": "-73.891688",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "91",
@@ -1430,7 +1610,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.676992",
-    "GTFS Longitude": "-73.898654"
+    "GTFS Longitude": "-73.898654",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "92",
@@ -1446,7 +1628,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.679498",
-    "GTFS Longitude": "-73.904512"
+    "GTFS Longitude": "-73.904512",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "93",
@@ -1462,7 +1646,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.682893",
-    "GTFS Longitude": "-73.910456"
+    "GTFS Longitude": "-73.910456",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "94",
@@ -1477,7 +1663,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.68637",
-    "GTFS Longitude": "-73.916559"
+    "GTFS Longitude": "-73.916559",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "95",
@@ -1493,7 +1681,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.68963",
-    "GTFS Longitude": "-73.92227"
+    "GTFS Longitude": "-73.92227",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "96",
@@ -1508,7 +1698,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.693342",
-    "GTFS Longitude": "-73.928814"
+    "GTFS Longitude": "-73.928814",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "97",
@@ -1525,7 +1717,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.697207",
-    "GTFS Longitude": "-73.935657"
+    "GTFS Longitude": "-73.935657",
+    "North Direction Label": "Jamaica - Middle Village",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "98",
@@ -1541,7 +1735,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.70026",
-    "GTFS Longitude": "-73.941126"
+    "GTFS Longitude": "-73.941126",
+    "North Direction Label": "Jamaica - Middle Village",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "99",
@@ -1557,7 +1753,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.703869",
-    "GTFS Longitude": "-73.947408"
+    "GTFS Longitude": "-73.947408",
+    "North Direction Label": "Jamaica - Middle Village",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "100",
@@ -1573,7 +1771,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.70687",
-    "GTFS Longitude": "-73.953431"
+    "GTFS Longitude": "-73.953431",
+    "North Direction Label": "Jamaica - Middle Village",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "101",
@@ -1590,7 +1790,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.708359",
-    "GTFS Longitude": "-73.957757"
+    "GTFS Longitude": "-73.957757",
+    "North Direction Label": "Jamaica - Middle Village",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "102",
@@ -1607,7 +1809,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.718315",
-    "GTFS Longitude": "-73.987437"
+    "GTFS Longitude": "-73.987437",
+    "North Direction Label": "Brooklyn",
+    "South Direction Label": "Broad St (JZ) - Uptown (M)"
   },
   {
     "Station ID": "103",
@@ -1623,7 +1827,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.72028",
-    "GTFS Longitude": "-73.993915"
+    "GTFS Longitude": "-73.993915",
+    "North Direction Label": "Brooklyn",
+    "South Direction Label": "Broad St"
   },
   {
     "Station ID": "104",
@@ -1639,7 +1845,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.718092",
-    "GTFS Longitude": "-73.999892"
+    "GTFS Longitude": "-73.999892",
+    "North Direction Label": "Brooklyn",
+    "South Direction Label": "Broad St"
   },
   {
     "Station ID": "105",
@@ -1655,7 +1863,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.713243",
-    "GTFS Longitude": "-74.003401"
+    "GTFS Longitude": "-74.003401",
+    "North Direction Label": "Brooklyn",
+    "South Direction Label": "Broad St"
   },
   {
     "Station ID": "106",
@@ -1671,7 +1881,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.710374",
-    "GTFS Longitude": "-74.007582"
+    "GTFS Longitude": "-74.007582",
+    "North Direction Label": "Brooklyn",
+    "South Direction Label": "Broad St"
   },
   {
     "Station ID": "107",
@@ -1687,7 +1899,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.706476",
-    "GTFS Longitude": "-74.011056"
+    "GTFS Longitude": "-74.011056",
+    "North Direction Label": "Brooklyn",
+    "South Direction Label": ""
   },
   {
     "Station ID": "108",
@@ -1702,7 +1916,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.711396",
-    "GTFS Longitude": "-73.889601"
+    "GTFS Longitude": "-73.889601",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": ""
   },
   {
     "Station ID": "109",
@@ -1717,7 +1933,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.706186",
-    "GTFS Longitude": "-73.895877"
+    "GTFS Longitude": "-73.895877",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Metropolitan Av"
   },
   {
     "Station ID": "110",
@@ -1732,7 +1950,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.704423",
-    "GTFS Longitude": "-73.903077"
+    "GTFS Longitude": "-73.903077",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Metropolitan Av"
   },
   {
     "Station ID": "111",
@@ -1747,7 +1967,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.702762",
-    "GTFS Longitude": "-73.90774"
+    "GTFS Longitude": "-73.90774",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Metropolitan Av"
   },
   {
     "Station ID": "112",
@@ -1762,7 +1984,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.69943",
-    "GTFS Longitude": "-73.912385"
+    "GTFS Longitude": "-73.912385",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Metropolitan Av"
   },
   {
     "Station ID": "113",
@@ -1777,7 +2001,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.698664",
-    "GTFS Longitude": "-73.919711"
+    "GTFS Longitude": "-73.919711",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Metropolitan Av"
   },
   {
     "Station ID": "114",
@@ -1792,7 +2018,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.697857",
-    "GTFS Longitude": "-73.927397"
+    "GTFS Longitude": "-73.927397",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Metropolitan Av"
   },
   {
     "Station ID": "115",
@@ -1807,7 +2035,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.739777",
-    "GTFS Longitude": "-74.002578"
+    "GTFS Longitude": "-74.002578",
+    "North Direction Label": "",
+    "South Direction Label": "Brooklyn"
   },
   {
     "Station ID": "116",
@@ -1822,7 +2052,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.737335",
-    "GTFS Longitude": "-73.996786"
+    "GTFS Longitude": "-73.996786",
+    "North Direction Label": "8 Av",
+    "South Direction Label": "Brooklyn"
   },
   {
     "Station ID": "117",
@@ -1837,7 +2069,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.734789",
-    "GTFS Longitude": "-73.99073"
+    "GTFS Longitude": "-73.99073",
+    "North Direction Label": "8 Av",
+    "South Direction Label": "Brooklyn"
   },
   {
     "Station ID": "118",
@@ -1852,7 +2086,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.732849",
-    "GTFS Longitude": "-73.986122"
+    "GTFS Longitude": "-73.986122",
+    "North Direction Label": "8 Av",
+    "South Direction Label": "Brooklyn"
   },
   {
     "Station ID": "119",
@@ -1867,7 +2103,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.730953",
-    "GTFS Longitude": "-73.981628"
+    "GTFS Longitude": "-73.981628",
+    "North Direction Label": "8 Av",
+    "South Direction Label": "Brooklyn"
   },
   {
     "Station ID": "120",
@@ -1882,7 +2120,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.717304",
-    "GTFS Longitude": "-73.956872"
+    "GTFS Longitude": "-73.956872",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "121",
@@ -1897,7 +2137,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.714063",
-    "GTFS Longitude": "-73.950275"
+    "GTFS Longitude": "-73.950275",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "122",
@@ -1912,7 +2154,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.714565",
-    "GTFS Longitude": "-73.944053"
+    "GTFS Longitude": "-73.944053",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "123",
@@ -1927,7 +2171,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.711926",
-    "GTFS Longitude": "-73.94067"
+    "GTFS Longitude": "-73.94067",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "124",
@@ -1942,7 +2188,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.707739",
-    "GTFS Longitude": "-73.93985"
+    "GTFS Longitude": "-73.93985",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "125",
@@ -1957,7 +2205,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.706152",
-    "GTFS Longitude": "-73.933147"
+    "GTFS Longitude": "-73.933147",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "126",
@@ -1972,7 +2222,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.706607",
-    "GTFS Longitude": "-73.922913"
+    "GTFS Longitude": "-73.922913",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "127",
@@ -1987,7 +2239,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.703811",
-    "GTFS Longitude": "-73.918425"
+    "GTFS Longitude": "-73.918425",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "128",
@@ -2002,7 +2256,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.699814",
-    "GTFS Longitude": "-73.911586"
+    "GTFS Longitude": "-73.911586",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "129",
@@ -2017,7 +2273,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.695602",
-    "GTFS Longitude": "-73.904084"
+    "GTFS Longitude": "-73.904084",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "130",
@@ -2032,7 +2290,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.688764",
-    "GTFS Longitude": "-73.904046"
+    "GTFS Longitude": "-73.904046",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "131",
@@ -2047,7 +2307,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.682829",
-    "GTFS Longitude": "-73.905249"
+    "GTFS Longitude": "-73.905249",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "132",
@@ -2062,7 +2324,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.678856",
-    "GTFS Longitude": "-73.90324"
+    "GTFS Longitude": "-73.90324",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "133",
@@ -2077,7 +2341,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.675345",
-    "GTFS Longitude": "-73.903097"
+    "GTFS Longitude": "-73.903097",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "134",
@@ -2092,7 +2358,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.669367",
-    "GTFS Longitude": "-73.901975"
+    "GTFS Longitude": "-73.901975",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "135",
@@ -2107,7 +2375,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.664038",
-    "GTFS Longitude": "-73.900571"
+    "GTFS Longitude": "-73.900571",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "136",
@@ -2122,7 +2392,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.658733",
-    "GTFS Longitude": "-73.899232"
+    "GTFS Longitude": "-73.899232",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "137",
@@ -2137,7 +2409,9 @@
     ],
     "Structure": "At Grade",
     "GTFS Latitude": "40.650573",
-    "GTFS Longitude": "-73.899485"
+    "GTFS Longitude": "-73.899485",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Canarsie - Rockaway Parkway"
   },
   {
     "Station ID": "138",
@@ -2152,7 +2426,9 @@
     ],
     "Structure": "At Grade",
     "GTFS Latitude": "40.646654",
-    "GTFS Longitude": "-73.90185"
+    "GTFS Longitude": "-73.90185",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": ""
   },
   {
     "Station ID": "139",
@@ -2167,7 +2443,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.680596",
-    "GTFS Longitude": "-73.955827"
+    "GTFS Longitude": "-73.955827",
+    "North Direction Label": "",
+    "South Direction Label": "Prospect Park"
   },
   {
     "Station ID": "141",
@@ -2182,7 +2460,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.674772",
-    "GTFS Longitude": "-73.957624"
+    "GTFS Longitude": "-73.957624",
+    "North Direction Label": "Franklin Av",
+    "South Direction Label": "Prospect Park"
   },
   {
     "Station ID": "142",
@@ -2197,7 +2477,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.670343",
-    "GTFS Longitude": "-73.959245"
+    "GTFS Longitude": "-73.959245",
+    "North Direction Label": "Franklin Av",
+    "South Direction Label": "Prospect Park"
   },
   {
     "Station ID": "143",
@@ -2212,7 +2494,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.868072",
-    "GTFS Longitude": "-73.919899"
+    "GTFS Longitude": "-73.919899",
+    "North Direction Label": "",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "144",
@@ -2227,7 +2511,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.865491",
-    "GTFS Longitude": "-73.927271"
+    "GTFS Longitude": "-73.927271",
+    "North Direction Label": "207 St",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "145",
@@ -2242,7 +2528,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.859022",
-    "GTFS Longitude": "-73.93418"
+    "GTFS Longitude": "-73.93418",
+    "North Direction Label": "207 St",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "146",
@@ -2257,7 +2545,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.851695",
-    "GTFS Longitude": "-73.937969"
+    "GTFS Longitude": "-73.937969",
+    "North Direction Label": "207 St",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "147",
@@ -2272,7 +2562,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.847391",
-    "GTFS Longitude": "-73.939704"
+    "GTFS Longitude": "-73.939704",
+    "North Direction Label": "207 St",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "148",
@@ -2288,7 +2580,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.840719",
-    "GTFS Longitude": "-73.939561"
+    "GTFS Longitude": "-73.939561",
+    "North Direction Label": "207 St",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "149",
@@ -2303,7 +2597,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.836013",
-    "GTFS Longitude": "-73.939892"
+    "GTFS Longitude": "-73.939892",
+    "North Direction Label": "Uptown",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "150",
@@ -2318,7 +2614,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.830518",
-    "GTFS Longitude": "-73.941514"
+    "GTFS Longitude": "-73.941514",
+    "North Direction Label": "Uptown",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "151",
@@ -2334,7 +2632,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.824783",
-    "GTFS Longitude": "-73.944216"
+    "GTFS Longitude": "-73.944216",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "151",
@@ -2350,7 +2650,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.824783",
-    "GTFS Longitude": "-73.944216"
+    "GTFS Longitude": "-73.944216",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "152",
@@ -2366,7 +2668,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.817894",
-    "GTFS Longitude": "-73.947649"
+    "GTFS Longitude": "-73.947649",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "153",
@@ -2384,7 +2688,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.811109",
-    "GTFS Longitude": "-73.952343"
+    "GTFS Longitude": "-73.952343",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "154",
@@ -2400,7 +2706,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.805085",
-    "GTFS Longitude": "-73.954882"
+    "GTFS Longitude": "-73.954882",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "155",
@@ -2416,7 +2724,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.800603",
-    "GTFS Longitude": "-73.958161"
+    "GTFS Longitude": "-73.958161",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "156",
@@ -2432,7 +2742,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.796092",
-    "GTFS Longitude": "-73.961454"
+    "GTFS Longitude": "-73.961454",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "157",
@@ -2448,7 +2760,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.791642",
-    "GTFS Longitude": "-73.964696"
+    "GTFS Longitude": "-73.964696",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "158",
@@ -2464,7 +2778,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.785868",
-    "GTFS Longitude": "-73.968916"
+    "GTFS Longitude": "-73.968916",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "159",
@@ -2480,7 +2796,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.781433",
-    "GTFS Longitude": "-73.972143"
+    "GTFS Longitude": "-73.972143",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "160",
@@ -2496,7 +2814,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.775594",
-    "GTFS Longitude": "-73.97641"
+    "GTFS Longitude": "-73.97641",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "161",
@@ -2514,7 +2834,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.768296",
-    "GTFS Longitude": "-73.981736"
+    "GTFS Longitude": "-73.981736",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "162",
@@ -2530,7 +2852,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.762456",
-    "GTFS Longitude": "-73.985984"
+    "GTFS Longitude": "-73.985984",
+    "North Direction Label": "Uptown - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "163",
@@ -2547,7 +2871,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.757308",
-    "GTFS Longitude": "-73.989735"
+    "GTFS Longitude": "-73.989735",
+    "North Direction Label": "Uptown - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "164",
@@ -2564,7 +2890,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.752287",
-    "GTFS Longitude": "-73.993391"
+    "GTFS Longitude": "-73.993391",
+    "North Direction Label": "Uptown - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "165",
@@ -2580,7 +2908,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.745906",
-    "GTFS Longitude": "-73.998041"
+    "GTFS Longitude": "-73.998041",
+    "North Direction Label": "Uptown - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "166",
@@ -2597,7 +2927,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.740893",
-    "GTFS Longitude": "-74.00169"
+    "GTFS Longitude": "-74.00169",
+    "North Direction Label": "Uptown - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "167",
@@ -2614,7 +2946,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.732338",
-    "GTFS Longitude": "-74.000495"
+    "GTFS Longitude": "-74.000495",
+    "North Direction Label": "Uptown - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "167",
@@ -2632,7 +2966,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.732338",
-    "GTFS Longitude": "-74.000495"
+    "GTFS Longitude": "-74.000495",
+    "North Direction Label": "Uptown - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "168",
@@ -2648,7 +2984,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.726227",
-    "GTFS Longitude": "-74.003739"
+    "GTFS Longitude": "-74.003739",
+    "North Direction Label": "Uptown - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "169",
@@ -2665,7 +3003,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.720824",
-    "GTFS Longitude": "-74.005229"
+    "GTFS Longitude": "-74.005229",
+    "North Direction Label": "Uptown - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "170",
@@ -2681,7 +3021,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.714111",
-    "GTFS Longitude": "-74.008585"
+    "GTFS Longitude": "-74.008585",
+    "North Direction Label": "Uptown",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "171",
@@ -2696,7 +3038,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.712582",
-    "GTFS Longitude": "-74.009781"
+    "GTFS Longitude": "-74.009781",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": ""
   },
   {
     "Station ID": "172",
@@ -2712,7 +3056,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.710197",
-    "GTFS Longitude": "-74.007691"
+    "GTFS Longitude": "-74.007691",
+    "North Direction Label": "Uptown",
+    "South Direction Label": "Brooklyn"
   },
   {
     "Station ID": "173",
@@ -2728,7 +3074,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.699337",
-    "GTFS Longitude": "-73.990531"
+    "GTFS Longitude": "-73.990531",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Euclid - Lefferts - Rockaways"
   },
   {
     "Station ID": "174",
@@ -2745,7 +3093,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.692338",
-    "GTFS Longitude": "-73.987342"
+    "GTFS Longitude": "-73.987342",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Euclid - Lefferts - Rockaways - Coney Island"
   },
   {
     "Station ID": "175",
@@ -2762,7 +3112,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.688484",
-    "GTFS Longitude": "-73.985001"
+    "GTFS Longitude": "-73.985001",
+    "North Direction Label": "Manhattan - Church Av",
+    "South Direction Label": "Euclid Av & Queens - Court Sq"
   },
   {
     "Station ID": "176",
@@ -2777,7 +3129,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.686113",
-    "GTFS Longitude": "-73.973946"
+    "GTFS Longitude": "-73.973946",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Euclid Av"
   },
   {
     "Station ID": "177",
@@ -2792,7 +3146,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.683263",
-    "GTFS Longitude": "-73.965838"
+    "GTFS Longitude": "-73.965838",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Euclid Av"
   },
   {
     "Station ID": "178",
@@ -2807,7 +3163,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.68138",
-    "GTFS Longitude": "-73.956848"
+    "GTFS Longitude": "-73.956848",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Euclid Av"
   },
   {
     "Station ID": "179",
@@ -2823,7 +3181,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.680438",
-    "GTFS Longitude": "-73.950426"
+    "GTFS Longitude": "-73.950426",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Euclid - Lefferts - Rockaways"
   },
   {
     "Station ID": "180",
@@ -2838,7 +3198,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.679921",
-    "GTFS Longitude": "-73.940858"
+    "GTFS Longitude": "-73.940858",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Euclid Av"
   },
   {
     "Station ID": "181",
@@ -2854,7 +3216,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.679364",
-    "GTFS Longitude": "-73.930729"
+    "GTFS Longitude": "-73.930729",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Euclid - Lefferts - Rockaways"
   },
   {
     "Station ID": "182",
@@ -2869,7 +3233,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.678822",
-    "GTFS Longitude": "-73.920786"
+    "GTFS Longitude": "-73.920786",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Euclid Av"
   },
   {
     "Station ID": "183",
@@ -2884,7 +3250,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.67834",
-    "GTFS Longitude": "-73.911946"
+    "GTFS Longitude": "-73.911946",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Euclid Av"
   },
   {
     "Station ID": "184",
@@ -2900,7 +3268,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.678334",
-    "GTFS Longitude": "-73.905316"
+    "GTFS Longitude": "-73.905316",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Euclid - Lefferts - Rockaways"
   },
   {
     "Station ID": "185",
@@ -2915,7 +3285,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.674542",
-    "GTFS Longitude": "-73.896548"
+    "GTFS Longitude": "-73.896548",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Euclid Av"
   },
   {
     "Station ID": "186",
@@ -2930,7 +3302,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.67271",
-    "GTFS Longitude": "-73.890358"
+    "GTFS Longitude": "-73.890358",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Euclid Av"
   },
   {
     "Station ID": "187",
@@ -2945,7 +3319,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.67413",
-    "GTFS Longitude": "-73.88075"
+    "GTFS Longitude": "-73.88075",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Euclid Av"
   },
   {
     "Station ID": "188",
@@ -2961,7 +3337,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.675377",
-    "GTFS Longitude": "-73.872106"
+    "GTFS Longitude": "-73.872106",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Lefferts - Rockaways"
   },
   {
     "Station ID": "189",
@@ -2976,7 +3354,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.677044",
-    "GTFS Longitude": "-73.86505"
+    "GTFS Longitude": "-73.86505",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Lefferts - Rockaways"
   },
   {
     "Station ID": "190",
@@ -2991,7 +3371,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.679371",
-    "GTFS Longitude": "-73.858992"
+    "GTFS Longitude": "-73.858992",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Lefferts - Rockaways"
   },
   {
     "Station ID": "191",
@@ -3006,7 +3388,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.679843",
-    "GTFS Longitude": "-73.85147"
+    "GTFS Longitude": "-73.85147",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Lefferts - Rockaways"
   },
   {
     "Station ID": "192",
@@ -3021,7 +3405,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.680429",
-    "GTFS Longitude": "-73.843853"
+    "GTFS Longitude": "-73.843853",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Lefferts - Rockaways"
   },
   {
     "Station ID": "193",
@@ -3036,7 +3422,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.681711",
-    "GTFS Longitude": "-73.837683"
+    "GTFS Longitude": "-73.837683",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Lefferts Blvd"
   },
   {
     "Station ID": "194",
@@ -3051,7 +3439,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.684331",
-    "GTFS Longitude": "-73.832163"
+    "GTFS Longitude": "-73.832163",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Lefferts Blvd"
   },
   {
     "Station ID": "195",
@@ -3066,7 +3456,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.685951",
-    "GTFS Longitude": "-73.825798"
+    "GTFS Longitude": "-73.825798",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": ""
   },
   {
     "Station ID": "196",
@@ -3081,7 +3473,9 @@
     ],
     "Structure": "At Grade",
     "GTFS Latitude": "40.672097",
-    "GTFS Longitude": "-73.835919"
+    "GTFS Longitude": "-73.835919",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Rockaways"
   },
   {
     "Station ID": "197",
@@ -3096,7 +3490,9 @@
     ],
     "Structure": "At Grade",
     "GTFS Latitude": "40.668234",
-    "GTFS Longitude": "-73.834058"
+    "GTFS Longitude": "-73.834058",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Rockaways"
   },
   {
     "Station ID": "198",
@@ -3111,7 +3507,9 @@
     ],
     "Structure": "At Grade",
     "GTFS Latitude": "40.660476",
-    "GTFS Longitude": "-73.830301"
+    "GTFS Longitude": "-73.830301",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Rockaways"
   },
   {
     "Station ID": "199",
@@ -3127,23 +3525,9 @@
     ],
     "Structure": "At Grade",
     "GTFS Latitude": "40.608382",
-    "GTFS Longitude": "-73.815925"
-  },
-  {
-    "Station ID": "199",
-    "Complex ID": "199",
-    "GTFS Stop ID": "H19",
-    "Division": "IND",
-    "Line": "Rockaway",
-    "Stop Name": "Broad Channel",
-    "Borough": "Q",
-    "Daytime Routes": [
-      "A",
-      "S"
-    ],
-    "Structure": "At Grade",
-    "GTFS Latitude": "40.608382",
-    "GTFS Longitude": "-73.815925"
+    "GTFS Longitude": "-73.815925",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Rockaways"
   },
   {
     "Station ID": "200",
@@ -3159,7 +3543,9 @@
     ],
     "Structure": "Viaduct",
     "GTFS Latitude": "40.588034",
-    "GTFS Longitude": "-73.813641"
+    "GTFS Longitude": "-73.813641",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Rockaway Park"
   },
   {
     "Station ID": "201",
@@ -3175,7 +3561,9 @@
     ],
     "Structure": "Viaduct",
     "GTFS Latitude": "40.585307",
-    "GTFS Longitude": "-73.820558"
+    "GTFS Longitude": "-73.820558",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Rockaway Park"
   },
   {
     "Station ID": "202",
@@ -3191,7 +3579,9 @@
     ],
     "Structure": "Viaduct",
     "GTFS Latitude": "40.583209",
-    "GTFS Longitude": "-73.827559"
+    "GTFS Longitude": "-73.827559",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Rockaway Park"
   },
   {
     "Station ID": "203",
@@ -3207,7 +3597,9 @@
     ],
     "Structure": "At Grade",
     "GTFS Latitude": "40.580903",
-    "GTFS Longitude": "-73.835592"
+    "GTFS Longitude": "-73.835592",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": ""
   },
   {
     "Station ID": "204",
@@ -3222,7 +3614,9 @@
     ],
     "Structure": "Viaduct",
     "GTFS Latitude": "40.590927",
-    "GTFS Longitude": "-73.796924"
+    "GTFS Longitude": "-73.796924",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Far Rockaway"
   },
   {
     "Station ID": "205",
@@ -3237,7 +3631,9 @@
     ],
     "Structure": "Viaduct",
     "GTFS Latitude": "40.592374",
-    "GTFS Longitude": "-73.788522"
+    "GTFS Longitude": "-73.788522",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Far Rockaway"
   },
   {
     "Station ID": "206",
@@ -3252,7 +3648,9 @@
     ],
     "Structure": "Viaduct",
     "GTFS Latitude": "40.592943",
-    "GTFS Longitude": "-73.776013"
+    "GTFS Longitude": "-73.776013",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Far Rockaway"
   },
   {
     "Station ID": "207",
@@ -3267,7 +3665,9 @@
     ],
     "Structure": "Viaduct",
     "GTFS Latitude": "40.595398",
-    "GTFS Longitude": "-73.768175"
+    "GTFS Longitude": "-73.768175",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Far Rockaway"
   },
   {
     "Station ID": "208",
@@ -3282,7 +3682,9 @@
     ],
     "Structure": "Viaduct",
     "GTFS Latitude": "40.600066",
-    "GTFS Longitude": "-73.761353"
+    "GTFS Longitude": "-73.761353",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Far Rockaway"
   },
   {
     "Station ID": "209",
@@ -3297,7 +3699,9 @@
     ],
     "Structure": "Viaduct",
     "GTFS Latitude": "40.603995",
-    "GTFS Longitude": "-73.755405"
+    "GTFS Longitude": "-73.755405",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": ""
   },
   {
     "Station ID": "210",
@@ -3312,7 +3716,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.874811",
-    "GTFS Longitude": "-73.878855"
+    "GTFS Longitude": "-73.878855",
+    "North Direction Label": "",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "211",
@@ -3328,7 +3734,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.873244",
-    "GTFS Longitude": "-73.887138"
+    "GTFS Longitude": "-73.887138",
+    "North Direction Label": "Norwood - 205 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "212",
@@ -3344,7 +3752,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.866978",
-    "GTFS Longitude": "-73.893509"
+    "GTFS Longitude": "-73.893509",
+    "North Direction Label": "Bedford Pk Blvd & 205 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "213",
@@ -3360,7 +3770,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.861296",
-    "GTFS Longitude": "-73.897749"
+    "GTFS Longitude": "-73.897749",
+    "North Direction Label": "Bedford Pk Blvd & 205 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "214",
@@ -3376,7 +3788,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.856093",
-    "GTFS Longitude": "-73.900741"
+    "GTFS Longitude": "-73.900741",
+    "North Direction Label": "Bedford Pk Blvd & 205 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "215",
@@ -3392,7 +3806,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.85041",
-    "GTFS Longitude": "-73.905227"
+    "GTFS Longitude": "-73.905227",
+    "North Direction Label": "Bedford Pk Blvd & 205 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "216",
@@ -3408,7 +3824,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.8459",
-    "GTFS Longitude": "-73.910136"
+    "GTFS Longitude": "-73.910136",
+    "North Direction Label": "Bedford Pk Blvd & 205 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "217",
@@ -3424,7 +3842,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.839306",
-    "GTFS Longitude": "-73.9134"
+    "GTFS Longitude": "-73.9134",
+    "North Direction Label": "Bedford Pk Blvd & 205 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "218",
@@ -3440,7 +3860,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.833771",
-    "GTFS Longitude": "-73.91844"
+    "GTFS Longitude": "-73.91844",
+    "North Direction Label": "Bedford Pk Blvd & 205 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "219",
@@ -3456,7 +3878,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.827905",
-    "GTFS Longitude": "-73.925651"
+    "GTFS Longitude": "-73.925651",
+    "North Direction Label": "Bedford Pk Blvd & 205 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "220",
@@ -3472,7 +3896,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.830135",
-    "GTFS Longitude": "-73.938209"
+    "GTFS Longitude": "-73.938209",
+    "North Direction Label": "The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "221",
@@ -3487,7 +3913,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.754203",
-    "GTFS Longitude": "-73.942836"
+    "GTFS Longitude": "-73.942836",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "222",
@@ -3502,7 +3930,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.759145",
-    "GTFS Longitude": "-73.95326"
+    "GTFS Longitude": "-73.95326",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "223",
@@ -3518,7 +3948,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.764629",
-    "GTFS Longitude": "-73.966113"
+    "GTFS Longitude": "-73.966113",
+    "North Direction Label": "Uptown - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "224",
@@ -3533,7 +3965,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.763972",
-    "GTFS Longitude": "-73.97745"
+    "GTFS Longitude": "-73.97745",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "225",
@@ -3551,7 +3985,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.758663",
-    "GTFS Longitude": "-73.981329"
+    "GTFS Longitude": "-73.981329",
+    "North Direction Label": "Uptown & The Bronx - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "226",
@@ -3569,7 +4005,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.754222",
-    "GTFS Longitude": "-73.984569"
+    "GTFS Longitude": "-73.984569",
+    "North Direction Label": "Uptown & The Bronx - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "227",
@@ -3587,7 +4025,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.749719",
-    "GTFS Longitude": "-73.987823"
+    "GTFS Longitude": "-73.987823",
+    "North Direction Label": "Uptown & The Bronx - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "228",
@@ -3603,7 +4043,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.742878",
-    "GTFS Longitude": "-73.992821"
+    "GTFS Longitude": "-73.992821",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "229",
@@ -3619,7 +4061,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.738228",
-    "GTFS Longitude": "-73.996209"
+    "GTFS Longitude": "-73.996209",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "230",
@@ -3637,7 +4081,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.725297",
-    "GTFS Longitude": "-73.996204"
+    "GTFS Longitude": "-73.996204",
+    "North Direction Label": "Uptown & The Bronx - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "231",
@@ -3653,7 +4099,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.718267",
-    "GTFS Longitude": "-73.993753"
+    "GTFS Longitude": "-73.993753",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Brooklyn"
   },
   {
     "Station ID": "232",
@@ -3668,7 +4116,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.723402",
-    "GTFS Longitude": "-73.989938"
+    "GTFS Longitude": "-73.989938",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "233",
@@ -3683,7 +4133,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.718611",
-    "GTFS Longitude": "-73.988114"
+    "GTFS Longitude": "-73.988114",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "234",
@@ -3698,7 +4150,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.713715",
-    "GTFS Longitude": "-73.990173"
+    "GTFS Longitude": "-73.990173",
+    "North Direction Label": "Uptown & Queens",
+    "South Direction Label": "Brooklyn"
   },
   {
     "Station ID": "235",
@@ -3713,7 +4167,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.701397",
-    "GTFS Longitude": "-73.986751"
+    "GTFS Longitude": "-73.986751",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "236",
@@ -3729,7 +4185,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.686145",
-    "GTFS Longitude": "-73.990862"
+    "GTFS Longitude": "-73.990862",
+    "North Direction Label": "Manhattan - Queens",
+    "South Direction Label": "Church Av - Coney Island"
   },
   {
     "Station ID": "237",
@@ -3745,7 +4203,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.680303",
-    "GTFS Longitude": "-73.995048"
+    "GTFS Longitude": "-73.995048",
+    "North Direction Label": "Manhattan - Queens",
+    "South Direction Label": "Church Av - Coney Island"
   },
   {
     "Station ID": "238",
@@ -3761,7 +4221,9 @@
     ],
     "Structure": "Viaduct",
     "GTFS Latitude": "40.67358",
-    "GTFS Longitude": "-73.995959"
+    "GTFS Longitude": "-73.995959",
+    "North Direction Label": "Manhattan - Queens",
+    "South Direction Label": "Church Av - Coney Island"
   },
   {
     "Station ID": "239",
@@ -3777,7 +4239,9 @@
     ],
     "Structure": "Viaduct",
     "GTFS Latitude": "40.670272",
-    "GTFS Longitude": "-73.989779"
+    "GTFS Longitude": "-73.989779",
+    "North Direction Label": "Manhattan - Queens",
+    "South Direction Label": "Church Av - Coney Island"
   },
   {
     "Station ID": "240",
@@ -3793,7 +4257,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.666271",
-    "GTFS Longitude": "-73.980305"
+    "GTFS Longitude": "-73.980305",
+    "North Direction Label": "Manhattan - Queens",
+    "South Direction Label": "Church Av - Coney Island"
   },
   {
     "Station ID": "241",
@@ -3809,7 +4275,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.660365",
-    "GTFS Longitude": "-73.979493"
+    "GTFS Longitude": "-73.979493",
+    "North Direction Label": "Manhattan - Queens",
+    "South Direction Label": "Church Av - Coney Island"
   },
   {
     "Station ID": "242",
@@ -3825,7 +4293,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.650782",
-    "GTFS Longitude": "-73.975776"
+    "GTFS Longitude": "-73.975776",
+    "North Direction Label": "Manhattan - Queens",
+    "South Direction Label": "Church Av - Coney Island"
   },
   {
     "Station ID": "243",
@@ -3840,7 +4310,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.644041",
-    "GTFS Longitude": "-73.979678"
+    "GTFS Longitude": "-73.979678",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "244",
@@ -3855,7 +4327,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.636119",
-    "GTFS Longitude": "-73.978172"
+    "GTFS Longitude": "-73.978172",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "245",
@@ -3870,7 +4344,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.629755",
-    "GTFS Longitude": "-73.976971"
+    "GTFS Longitude": "-73.976971",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "246",
@@ -3885,7 +4361,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.625322",
-    "GTFS Longitude": "-73.976127"
+    "GTFS Longitude": "-73.976127",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "247",
@@ -3900,7 +4378,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.620769",
-    "GTFS Longitude": "-73.975264"
+    "GTFS Longitude": "-73.975264",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "248",
@@ -3915,7 +4395,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.61514",
-    "GTFS Longitude": "-73.974197"
+    "GTFS Longitude": "-73.974197",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "249",
@@ -3930,7 +4412,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.608944",
-    "GTFS Longitude": "-73.973022"
+    "GTFS Longitude": "-73.973022",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "250",
@@ -3945,7 +4429,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.603217",
-    "GTFS Longitude": "-73.972361"
+    "GTFS Longitude": "-73.972361",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "251",
@@ -3960,7 +4446,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.596063",
-    "GTFS Longitude": "-73.973357"
+    "GTFS Longitude": "-73.973357",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "252",
@@ -3975,7 +4463,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.58962",
-    "GTFS Longitude": "-73.97425"
+    "GTFS Longitude": "-73.97425",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Coney Island"
   },
   {
     "Station ID": "253",
@@ -3990,7 +4480,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.581011",
-    "GTFS Longitude": "-73.974574"
+    "GTFS Longitude": "-73.974574",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Stillwell Av"
   },
   {
     "Station ID": "254",
@@ -4005,7 +4497,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.712646",
-    "GTFS Longitude": "-73.783817"
+    "GTFS Longitude": "-73.783817",
+    "North Direction Label": "",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "255",
@@ -4020,7 +4514,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.71047",
-    "GTFS Longitude": "-73.793604"
+    "GTFS Longitude": "-73.793604",
+    "North Direction Label": "179 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "256",
@@ -4035,7 +4531,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.707564",
-    "GTFS Longitude": "-73.803326"
+    "GTFS Longitude": "-73.803326",
+    "North Direction Label": "179 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "257",
@@ -4050,7 +4548,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.70546",
-    "GTFS Longitude": "-73.810708"
+    "GTFS Longitude": "-73.810708",
+    "North Direction Label": "179 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "258",
@@ -4066,7 +4566,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.709179",
-    "GTFS Longitude": "-73.820574"
+    "GTFS Longitude": "-73.820574",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "259",
@@ -4082,7 +4584,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.714441",
-    "GTFS Longitude": "-73.831008"
+    "GTFS Longitude": "-73.831008",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "260",
@@ -4098,7 +4602,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.718331",
-    "GTFS Longitude": "-73.837324"
+    "GTFS Longitude": "-73.837324",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "261",
@@ -4116,7 +4622,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.721691",
-    "GTFS Longitude": "-73.844521"
+    "GTFS Longitude": "-73.844521",
+    "North Direction Label": "Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "262",
@@ -4132,7 +4640,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.726523",
-    "GTFS Longitude": "-73.852719"
+    "GTFS Longitude": "-73.852719",
+    "North Direction Label": "Forest Hills",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "263",
@@ -4148,7 +4658,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.729846",
-    "GTFS Longitude": "-73.861604"
+    "GTFS Longitude": "-73.861604",
+    "North Direction Label": "Forest Hills",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "264",
@@ -4164,7 +4676,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.733106",
-    "GTFS Longitude": "-73.869229"
+    "GTFS Longitude": "-73.869229",
+    "North Direction Label": "Forest Hills",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "265",
@@ -4180,7 +4694,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.737015",
-    "GTFS Longitude": "-73.877223"
+    "GTFS Longitude": "-73.877223",
+    "North Direction Label": "Forest Hills",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "266",
@@ -4196,7 +4712,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.742454",
-    "GTFS Longitude": "-73.882017"
+    "GTFS Longitude": "-73.882017",
+    "North Direction Label": "Forest Hills",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "267",
@@ -4214,7 +4732,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.746644",
-    "GTFS Longitude": "-73.891338"
+    "GTFS Longitude": "-73.891338",
+    "North Direction Label": "Forest Hills - Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "268",
@@ -4230,7 +4750,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.749669",
-    "GTFS Longitude": "-73.898453"
+    "GTFS Longitude": "-73.898453",
+    "North Direction Label": "Forest Hills",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "269",
@@ -4246,7 +4768,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.752885",
-    "GTFS Longitude": "-73.906006"
+    "GTFS Longitude": "-73.906006",
+    "North Direction Label": "Forest Hills",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "270",
@@ -4262,7 +4786,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.756312",
-    "GTFS Longitude": "-73.913333"
+    "GTFS Longitude": "-73.913333",
+    "North Direction Label": "Forest Hills",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "271",
@@ -4278,7 +4804,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.756879",
-    "GTFS Longitude": "-73.92074"
+    "GTFS Longitude": "-73.92074",
+    "North Direction Label": "Forest Hills",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "272",
@@ -4294,7 +4822,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.752039",
-    "GTFS Longitude": "-73.928781"
+    "GTFS Longitude": "-73.928781",
+    "North Direction Label": "Forest Hills",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "273",
@@ -4311,7 +4841,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.748973",
-    "GTFS Longitude": "-73.937243"
+    "GTFS Longitude": "-73.937243",
+    "North Direction Label": "Forest Hills - Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "274",
@@ -4327,7 +4859,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.747846",
-    "GTFS Longitude": "-73.946"
+    "GTFS Longitude": "-73.946",
+    "North Direction Label": "Forest Hills - Jamaica",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "275",
@@ -4343,7 +4877,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.757552",
-    "GTFS Longitude": "-73.969055"
+    "GTFS Longitude": "-73.969055",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "276",
@@ -4359,7 +4895,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.760167",
-    "GTFS Longitude": "-73.975224"
+    "GTFS Longitude": "-73.975224",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "277",
@@ -4376,7 +4914,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.762862",
-    "GTFS Longitude": "-73.981637"
+    "GTFS Longitude": "-73.981637",
+    "North Direction Label": "Uptown & The Bronx - Queens",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "278",
@@ -4393,7 +4933,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.702147",
-    "GTFS Longitude": "-73.801109"
+    "GTFS Longitude": "-73.801109",
+    "North Direction Label": "",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "279",
@@ -4410,7 +4952,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.700486",
-    "GTFS Longitude": "-73.807969"
+    "GTFS Longitude": "-73.807969",
+    "North Direction Label": "Jamaica Center",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "280",
@@ -4425,7 +4969,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.702566",
-    "GTFS Longitude": "-73.816859"
+    "GTFS Longitude": "-73.816859",
+    "North Direction Label": "Jamaica Center",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "281",
@@ -4440,7 +4986,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.746554",
-    "GTFS Longitude": "-73.943832"
+    "GTFS Longitude": "-73.943832",
+    "North Direction Label": "",
+    "South Direction Label": "Brooklyn"
   },
   {
     "Station ID": "282",
@@ -4455,7 +5003,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.744065",
-    "GTFS Longitude": "-73.949724"
+    "GTFS Longitude": "-73.949724",
+    "North Direction Label": "Court Sq",
+    "South Direction Label": "Brooklyn"
   },
   {
     "Station ID": "283",
@@ -4470,7 +5020,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.731352",
-    "GTFS Longitude": "-73.954449"
+    "GTFS Longitude": "-73.954449",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Church Av"
   },
   {
     "Station ID": "284",
@@ -4485,7 +5037,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.724635",
-    "GTFS Longitude": "-73.951277"
+    "GTFS Longitude": "-73.951277",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Church Av"
   },
   {
     "Station ID": "285",
@@ -4500,7 +5054,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.712792",
-    "GTFS Longitude": "-73.951418"
+    "GTFS Longitude": "-73.951418",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Church Av"
   },
   {
     "Station ID": "286",
@@ -4515,7 +5071,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.706092",
-    "GTFS Longitude": "-73.950308"
+    "GTFS Longitude": "-73.950308",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Church Av"
   },
   {
     "Station ID": "287",
@@ -4530,7 +5088,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.700377",
-    "GTFS Longitude": "-73.950234"
+    "GTFS Longitude": "-73.950234",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Church Av"
   },
   {
     "Station ID": "288",
@@ -4545,7 +5105,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.694568",
-    "GTFS Longitude": "-73.949046"
+    "GTFS Longitude": "-73.949046",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Church Av"
   },
   {
     "Station ID": "289",
@@ -4560,7 +5122,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.689627",
-    "GTFS Longitude": "-73.953522"
+    "GTFS Longitude": "-73.953522",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Church Av"
   },
   {
     "Station ID": "290",
@@ -4575,7 +5139,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.688873",
-    "GTFS Longitude": "-73.96007"
+    "GTFS Longitude": "-73.96007",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Church Av"
   },
   {
     "Station ID": "291",
@@ -4590,7 +5156,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.688089",
-    "GTFS Longitude": "-73.966839"
+    "GTFS Longitude": "-73.966839",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Church Av"
   },
   {
     "Station ID": "292",
@@ -4605,7 +5173,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.687119",
-    "GTFS Longitude": "-73.975375"
+    "GTFS Longitude": "-73.975375",
+    "North Direction Label": "Queens",
+    "South Direction Label": "Church Av"
   },
   {
     "Station ID": "293",
@@ -4620,7 +5190,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.889248",
-    "GTFS Longitude": "-73.898583"
+    "GTFS Longitude": "-73.898583",
+    "North Direction Label": "",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "294",
@@ -4635,7 +5207,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.884667",
-    "GTFS Longitude": "-73.90087"
+    "GTFS Longitude": "-73.90087",
+    "North Direction Label": "242 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "295",
@@ -4650,7 +5224,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.878856",
-    "GTFS Longitude": "-73.904834"
+    "GTFS Longitude": "-73.904834",
+    "North Direction Label": "242 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "296",
@@ -4665,7 +5241,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.874561",
-    "GTFS Longitude": "-73.909831"
+    "GTFS Longitude": "-73.909831",
+    "North Direction Label": "242 St",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "297",
@@ -4680,7 +5258,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.869444",
-    "GTFS Longitude": "-73.915279"
+    "GTFS Longitude": "-73.915279",
+    "North Direction Label": "The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "298",
@@ -4695,7 +5275,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.864621",
-    "GTFS Longitude": "-73.918822"
+    "GTFS Longitude": "-73.918822",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "299",
@@ -4710,7 +5292,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.860531",
-    "GTFS Longitude": "-73.925536"
+    "GTFS Longitude": "-73.925536",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "300",
@@ -4725,7 +5309,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.855225",
-    "GTFS Longitude": "-73.929412"
+    "GTFS Longitude": "-73.929412",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "301",
@@ -4740,7 +5326,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.849505",
-    "GTFS Longitude": "-73.933596"
+    "GTFS Longitude": "-73.933596",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "302",
@@ -4755,7 +5343,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.840556",
-    "GTFS Longitude": "-73.940133"
+    "GTFS Longitude": "-73.940133",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "303",
@@ -4770,7 +5360,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.834041",
-    "GTFS Longitude": "-73.94489"
+    "GTFS Longitude": "-73.94489",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "304",
@@ -4785,7 +5377,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.826551",
-    "GTFS Longitude": "-73.95036"
+    "GTFS Longitude": "-73.95036",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "305",
@@ -4800,7 +5394,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.822008",
-    "GTFS Longitude": "-73.953676"
+    "GTFS Longitude": "-73.953676",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "306",
@@ -4815,7 +5411,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.815581",
-    "GTFS Longitude": "-73.958372"
+    "GTFS Longitude": "-73.958372",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "307",
@@ -4830,7 +5428,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.807722",
-    "GTFS Longitude": "-73.96411"
+    "GTFS Longitude": "-73.96411",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "308",
@@ -4845,7 +5445,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.803967",
-    "GTFS Longitude": "-73.966847"
+    "GTFS Longitude": "-73.966847",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "309",
@@ -4860,7 +5462,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.799446",
-    "GTFS Longitude": "-73.968379"
+    "GTFS Longitude": "-73.968379",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "310",
@@ -4877,7 +5481,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.793919",
-    "GTFS Longitude": "-73.972323"
+    "GTFS Longitude": "-73.972323",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "311",
@@ -4892,7 +5498,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.788644",
-    "GTFS Longitude": "-73.976218"
+    "GTFS Longitude": "-73.976218",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "312",
@@ -4907,7 +5515,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.783934",
-    "GTFS Longitude": "-73.979917"
+    "GTFS Longitude": "-73.979917",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "313",
@@ -4924,7 +5534,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.778453",
-    "GTFS Longitude": "-73.98197"
+    "GTFS Longitude": "-73.98197",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "314",
@@ -4939,7 +5551,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.77344",
-    "GTFS Longitude": "-73.982209"
+    "GTFS Longitude": "-73.982209",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "315",
@@ -4954,7 +5568,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.768247",
-    "GTFS Longitude": "-73.981929"
+    "GTFS Longitude": "-73.981929",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "316",
@@ -4969,7 +5585,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.761728",
-    "GTFS Longitude": "-73.983849"
+    "GTFS Longitude": "-73.983849",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "317",
@@ -4986,7 +5604,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.75529",
-    "GTFS Longitude": "-73.987495"
+    "GTFS Longitude": "-73.987495",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "318",
@@ -5003,7 +5623,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.750373",
-    "GTFS Longitude": "-73.991057"
+    "GTFS Longitude": "-73.991057",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "319",
@@ -5018,7 +5640,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.747215",
-    "GTFS Longitude": "-73.993365"
+    "GTFS Longitude": "-73.993365",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "320",
@@ -5033,7 +5657,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.744081",
-    "GTFS Longitude": "-73.995657"
+    "GTFS Longitude": "-73.995657",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "321",
@@ -5048,7 +5674,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.74104",
-    "GTFS Longitude": "-73.997871"
+    "GTFS Longitude": "-73.997871",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "322",
@@ -5065,7 +5693,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.737826",
-    "GTFS Longitude": "-74.000201"
+    "GTFS Longitude": "-74.000201",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "323",
@@ -5080,7 +5710,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.733422",
-    "GTFS Longitude": "-74.002906"
+    "GTFS Longitude": "-74.002906",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "324",
@@ -5095,7 +5727,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.728251",
-    "GTFS Longitude": "-74.005367"
+    "GTFS Longitude": "-74.005367",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "325",
@@ -5110,7 +5744,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.722854",
-    "GTFS Longitude": "-74.006277"
+    "GTFS Longitude": "-74.006277",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "326",
@@ -5125,7 +5761,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.719318",
-    "GTFS Longitude": "-74.006886"
+    "GTFS Longitude": "-74.006886",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "327",
@@ -5142,7 +5780,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.715478",
-    "GTFS Longitude": "-74.009266"
+    "GTFS Longitude": "-74.009266",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "328",
@@ -5150,14 +5790,16 @@
     "GTFS Stop ID": "138",
     "Division": "IRT",
     "Line": "Broadway - 7Av",
-    "Stop Name": "Cortlandt St",
+    "Stop Name": "WTC Cortlandt",
     "Borough": "M",
     "Daytime Routes": [
       "1"
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.711835",
-    "GTFS Longitude": "-74.012188"
+    "GTFS Longitude": "-74.012188",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "329",
@@ -5172,7 +5814,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.707513",
-    "GTFS Longitude": "-74.013783"
+    "GTFS Longitude": "-74.013783",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "330",
@@ -5187,7 +5831,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.702068",
-    "GTFS Longitude": "-74.013664"
+    "GTFS Longitude": "-74.013664",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": ""
   },
   {
     "Station ID": "331",
@@ -5203,7 +5849,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.713051",
-    "GTFS Longitude": "-74.008811"
+    "GTFS Longitude": "-74.008811",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "332",
@@ -5219,7 +5867,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.709416",
-    "GTFS Longitude": "-74.006571"
+    "GTFS Longitude": "-74.006571",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "333",
@@ -5235,7 +5885,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.706821",
-    "GTFS Longitude": "-74.0091"
+    "GTFS Longitude": "-74.0091",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Brooklyn"
   },
   {
     "Station ID": "334",
@@ -5251,7 +5903,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.697466",
-    "GTFS Longitude": "-73.993086"
+    "GTFS Longitude": "-73.993086",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush - New Lots"
   },
   {
     "Station ID": "335",
@@ -5267,7 +5921,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.693219",
-    "GTFS Longitude": "-73.989998"
+    "GTFS Longitude": "-73.989998",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush - New Lots"
   },
   {
     "Station ID": "336",
@@ -5283,7 +5939,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.690545",
-    "GTFS Longitude": "-73.985065"
+    "GTFS Longitude": "-73.985065",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush - New Lots"
   },
   {
     "Station ID": "337",
@@ -5301,7 +5959,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.688246",
-    "GTFS Longitude": "-73.980492"
+    "GTFS Longitude": "-73.980492",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush - Utica - New Lots"
   },
   {
     "Station ID": "338",
@@ -5313,11 +5973,15 @@
     "Borough": "Bk",
     "Daytime Routes": [
       "2",
-      "3"
+      "3",
+      "4",
+      "5"
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.684359",
-    "GTFS Longitude": "-73.977666"
+    "GTFS Longitude": "-73.977666",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush - New Lots"
   },
   {
     "Station ID": "339",
@@ -5333,7 +5997,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.680829",
-    "GTFS Longitude": "-73.975098"
+    "GTFS Longitude": "-73.975098",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush - New Lots"
   },
   {
     "Station ID": "340",
@@ -5349,7 +6015,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.675235",
-    "GTFS Longitude": "-73.971046"
+    "GTFS Longitude": "-73.971046",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush - New Lots"
   },
   {
     "Station ID": "341",
@@ -5365,7 +6033,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.671987",
-    "GTFS Longitude": "-73.964375"
+    "GTFS Longitude": "-73.964375",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush - New Lots"
   },
   {
     "Station ID": "342",
@@ -5383,7 +6053,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.670682",
-    "GTFS Longitude": "-73.958131"
+    "GTFS Longitude": "-73.958131",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush - Utica - New Lots"
   },
   {
     "Station ID": "343",
@@ -5398,7 +6070,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.669847",
-    "GTFS Longitude": "-73.950466"
+    "GTFS Longitude": "-73.950466",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "New Lots"
   },
   {
     "Station ID": "344",
@@ -5413,7 +6087,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.669399",
-    "GTFS Longitude": "-73.942161"
+    "GTFS Longitude": "-73.942161",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "New Lots"
   },
   {
     "Station ID": "345",
@@ -5429,7 +6105,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.668897",
-    "GTFS Longitude": "-73.932942"
+    "GTFS Longitude": "-73.932942",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "New Lots"
   },
   {
     "Station ID": "346",
@@ -5444,7 +6122,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.664717",
-    "GTFS Longitude": "-73.92261"
+    "GTFS Longitude": "-73.92261",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "New Lots"
   },
   {
     "Station ID": "347",
@@ -5459,7 +6139,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.661453",
-    "GTFS Longitude": "-73.916327"
+    "GTFS Longitude": "-73.916327",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "New Lots"
   },
   {
     "Station ID": "348",
@@ -5474,7 +6156,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.662549",
-    "GTFS Longitude": "-73.908946"
+    "GTFS Longitude": "-73.908946",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "New Lots"
   },
   {
     "Station ID": "349",
@@ -5489,7 +6173,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.663515",
-    "GTFS Longitude": "-73.902447"
+    "GTFS Longitude": "-73.902447",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "New Lots"
   },
   {
     "Station ID": "350",
@@ -5504,7 +6190,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.664635",
-    "GTFS Longitude": "-73.894895"
+    "GTFS Longitude": "-73.894895",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "New Lots"
   },
   {
     "Station ID": "351",
@@ -5519,7 +6207,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.665449",
-    "GTFS Longitude": "-73.889395"
+    "GTFS Longitude": "-73.889395",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "New Lots"
   },
   {
     "Station ID": "352",
@@ -5534,7 +6224,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.666235",
-    "GTFS Longitude": "-73.884079"
+    "GTFS Longitude": "-73.884079",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": ""
   },
   {
     "Station ID": "353",
@@ -5550,7 +6242,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.667883",
-    "GTFS Longitude": "-73.950683"
+    "GTFS Longitude": "-73.950683",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush"
   },
   {
     "Station ID": "354",
@@ -5566,7 +6260,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.662742",
-    "GTFS Longitude": "-73.95085"
+    "GTFS Longitude": "-73.95085",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush"
   },
   {
     "Station ID": "355",
@@ -5582,7 +6278,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.656652",
-    "GTFS Longitude": "-73.9502"
+    "GTFS Longitude": "-73.9502",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush"
   },
   {
     "Station ID": "356",
@@ -5598,7 +6296,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.650843",
-    "GTFS Longitude": "-73.949575"
+    "GTFS Longitude": "-73.949575",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush"
   },
   {
     "Station ID": "357",
@@ -5614,7 +6314,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.645098",
-    "GTFS Longitude": "-73.948959"
+    "GTFS Longitude": "-73.948959",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush"
   },
   {
     "Station ID": "358",
@@ -5630,7 +6332,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.639967",
-    "GTFS Longitude": "-73.948411"
+    "GTFS Longitude": "-73.948411",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush"
   },
   {
     "Station ID": "359",
@@ -5646,7 +6350,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.632836",
-    "GTFS Longitude": "-73.947642"
+    "GTFS Longitude": "-73.947642",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": ""
   },
   {
     "Station ID": "360",
@@ -5661,7 +6367,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.852462",
-    "GTFS Longitude": "-73.828121"
+    "GTFS Longitude": "-73.828121",
+    "North Direction Label": "",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "361",
@@ -5676,7 +6384,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.84681",
-    "GTFS Longitude": "-73.832569"
+    "GTFS Longitude": "-73.832569",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "362",
@@ -5691,7 +6401,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.843863",
-    "GTFS Longitude": "-73.836322"
+    "GTFS Longitude": "-73.836322",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "363",
@@ -5706,7 +6418,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.839892",
-    "GTFS Longitude": "-73.842952"
+    "GTFS Longitude": "-73.842952",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "364",
@@ -5721,7 +6435,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.836488",
-    "GTFS Longitude": "-73.847036"
+    "GTFS Longitude": "-73.847036",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "365",
@@ -5736,7 +6452,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.834255",
-    "GTFS Longitude": "-73.851222"
+    "GTFS Longitude": "-73.851222",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "366",
@@ -5751,7 +6469,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.833226",
-    "GTFS Longitude": "-73.860816"
+    "GTFS Longitude": "-73.860816",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "367",
@@ -5766,7 +6486,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.831509",
-    "GTFS Longitude": "-73.867618"
+    "GTFS Longitude": "-73.867618",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "368",
@@ -5781,7 +6503,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.829521",
-    "GTFS Longitude": "-73.874516"
+    "GTFS Longitude": "-73.874516",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "369",
@@ -5796,7 +6520,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.828584",
-    "GTFS Longitude": "-73.879159"
+    "GTFS Longitude": "-73.879159",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "370",
@@ -5811,7 +6537,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.826525",
-    "GTFS Longitude": "-73.886283"
+    "GTFS Longitude": "-73.886283",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "371",
@@ -5826,7 +6554,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.820948",
-    "GTFS Longitude": "-73.890549"
+    "GTFS Longitude": "-73.890549",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "372",
@@ -5841,7 +6571,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.816104",
-    "GTFS Longitude": "-73.896435"
+    "GTFS Longitude": "-73.896435",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "373",
@@ -5856,7 +6588,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.812118",
-    "GTFS Longitude": "-73.904098"
+    "GTFS Longitude": "-73.904098",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "374",
@@ -5871,7 +6605,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.808719",
-    "GTFS Longitude": "-73.907657"
+    "GTFS Longitude": "-73.907657",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "375",
@@ -5886,7 +6622,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.805368",
-    "GTFS Longitude": "-73.914042"
+    "GTFS Longitude": "-73.914042",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "376",
@@ -5901,7 +6639,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.807566",
-    "GTFS Longitude": "-73.91924"
+    "GTFS Longitude": "-73.91924",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "377",
@@ -5916,7 +6656,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.810476",
-    "GTFS Longitude": "-73.926138"
+    "GTFS Longitude": "-73.926138",
+    "North Direction Label": "Pelham Bay Park",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "378",
@@ -5931,7 +6673,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.886037",
-    "GTFS Longitude": "-73.878751"
+    "GTFS Longitude": "-73.878751",
+    "North Direction Label": "",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "379",
@@ -5946,7 +6690,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.87975",
-    "GTFS Longitude": "-73.884655"
+    "GTFS Longitude": "-73.884655",
+    "North Direction Label": "Woodlawn",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "380",
@@ -5961,7 +6707,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.873412",
-    "GTFS Longitude": "-73.890064"
+    "GTFS Longitude": "-73.890064",
+    "North Direction Label": "Woodlawn",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "381",
@@ -5976,7 +6724,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.86776",
-    "GTFS Longitude": "-73.897174"
+    "GTFS Longitude": "-73.897174",
+    "North Direction Label": "Woodlawn",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "382",
@@ -5991,7 +6741,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.862803",
-    "GTFS Longitude": "-73.901034"
+    "GTFS Longitude": "-73.901034",
+    "North Direction Label": "Woodlawn",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "383",
@@ -6006,7 +6758,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.858407",
-    "GTFS Longitude": "-73.903879"
+    "GTFS Longitude": "-73.903879",
+    "North Direction Label": "Woodlawn",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "384",
@@ -6021,7 +6775,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.853453",
-    "GTFS Longitude": "-73.907684"
+    "GTFS Longitude": "-73.907684",
+    "North Direction Label": "Woodlawn",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "385",
@@ -6036,7 +6792,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.84848",
-    "GTFS Longitude": "-73.911794"
+    "GTFS Longitude": "-73.911794",
+    "North Direction Label": "Woodlawn",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "386",
@@ -6051,7 +6809,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.844434",
-    "GTFS Longitude": "-73.914685"
+    "GTFS Longitude": "-73.914685",
+    "North Direction Label": "Woodlawn",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "387",
@@ -6066,7 +6826,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.840075",
-    "GTFS Longitude": "-73.917791"
+    "GTFS Longitude": "-73.917791",
+    "North Direction Label": "Woodlawn",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "388",
@@ -6081,7 +6843,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.835537",
-    "GTFS Longitude": "-73.9214"
+    "GTFS Longitude": "-73.9214",
+    "North Direction Label": "Woodlawn",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "389",
@@ -6096,7 +6860,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.827994",
-    "GTFS Longitude": "-73.925831"
+    "GTFS Longitude": "-73.925831",
+    "North Direction Label": "Woodlawn",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "390",
@@ -6111,7 +6877,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.818375",
-    "GTFS Longitude": "-73.927351"
+    "GTFS Longitude": "-73.927351",
+    "North Direction Label": "Woodlawn",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "391",
@@ -6127,7 +6895,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.813224",
-    "GTFS Longitude": "-73.929849"
+    "GTFS Longitude": "-73.929849",
+    "North Direction Label": "Woodlawn - Eastchester Dyre Av",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "392",
@@ -6144,7 +6914,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.804138",
-    "GTFS Longitude": "-73.937594"
+    "GTFS Longitude": "-73.937594",
+    "North Direction Label": "The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "393",
@@ -6159,7 +6931,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.798629",
-    "GTFS Longitude": "-73.941617"
+    "GTFS Longitude": "-73.941617",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "394",
@@ -6174,7 +6948,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.79502",
-    "GTFS Longitude": "-73.94425"
+    "GTFS Longitude": "-73.94425",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "395",
@@ -6189,7 +6965,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.7906",
-    "GTFS Longitude": "-73.947478"
+    "GTFS Longitude": "-73.947478",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "396",
@@ -6204,7 +6982,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.785672",
-    "GTFS Longitude": "-73.95107"
+    "GTFS Longitude": "-73.95107",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "397",
@@ -6221,7 +7001,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.779492",
-    "GTFS Longitude": "-73.955589"
+    "GTFS Longitude": "-73.955589",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "398",
@@ -6236,7 +7018,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.77362",
-    "GTFS Longitude": "-73.959874"
+    "GTFS Longitude": "-73.959874",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "399",
@@ -6251,7 +7035,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.768141",
-    "GTFS Longitude": "-73.96387"
+    "GTFS Longitude": "-73.96387",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "400",
@@ -6268,7 +7054,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.762526",
-    "GTFS Longitude": "-73.967967"
+    "GTFS Longitude": "-73.967967",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "401",
@@ -6283,7 +7071,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.757107",
-    "GTFS Longitude": "-73.97192"
+    "GTFS Longitude": "-73.97192",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "402",
@@ -6300,7 +7090,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.751776",
-    "GTFS Longitude": "-73.976848"
+    "GTFS Longitude": "-73.976848",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "403",
@@ -6315,7 +7107,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.746081",
-    "GTFS Longitude": "-73.982076"
+    "GTFS Longitude": "-73.982076",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "404",
@@ -6330,7 +7124,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.74307",
-    "GTFS Longitude": "-73.984264"
+    "GTFS Longitude": "-73.984264",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "405",
@@ -6345,7 +7141,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.739864",
-    "GTFS Longitude": "-73.986599"
+    "GTFS Longitude": "-73.986599",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "406",
@@ -6362,7 +7160,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.734673",
-    "GTFS Longitude": "-73.989951"
+    "GTFS Longitude": "-73.989951",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "407",
@@ -6377,7 +7177,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.730054",
-    "GTFS Longitude": "-73.99107"
+    "GTFS Longitude": "-73.99107",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "408",
@@ -6392,7 +7194,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.725915",
-    "GTFS Longitude": "-73.994659"
+    "GTFS Longitude": "-73.994659",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "409",
@@ -6407,7 +7211,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.722301",
-    "GTFS Longitude": "-73.997141"
+    "GTFS Longitude": "-73.997141",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "410",
@@ -6422,7 +7228,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.718803",
-    "GTFS Longitude": "-74.000193"
+    "GTFS Longitude": "-74.000193",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown"
   },
   {
     "Station ID": "411",
@@ -6439,7 +7247,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.713065",
-    "GTFS Longitude": "-74.004131"
+    "GTFS Longitude": "-74.004131",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "412",
@@ -6455,7 +7265,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.710368",
-    "GTFS Longitude": "-74.009509"
+    "GTFS Longitude": "-74.009509",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "413",
@@ -6471,7 +7283,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.707557",
-    "GTFS Longitude": "-74.011862"
+    "GTFS Longitude": "-74.011862",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "414",
@@ -6487,7 +7301,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.704817",
-    "GTFS Longitude": "-74.014065"
+    "GTFS Longitude": "-74.014065",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Brooklyn"
   },
   {
     "Station ID": "415",
@@ -6503,7 +7319,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.692404",
-    "GTFS Longitude": "-73.990151"
+    "GTFS Longitude": "-73.990151",
+    "North Direction Label": "Manhattan",
+    "South Direction Label": "Flatbush - Utica"
   },
   {
     "Station ID": "416",
@@ -6518,7 +7336,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.903125",
-    "GTFS Longitude": "-73.85062"
+    "GTFS Longitude": "-73.85062",
+    "North Direction Label": "",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "417",
@@ -6534,7 +7354,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.898379",
-    "GTFS Longitude": "-73.854376"
+    "GTFS Longitude": "-73.854376",
+    "North Direction Label": "Wakefield - 241 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "418",
@@ -6550,7 +7372,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.893193",
-    "GTFS Longitude": "-73.857473"
+    "GTFS Longitude": "-73.857473",
+    "North Direction Label": "Wakefield - 241 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "419",
@@ -6566,7 +7390,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.888022",
-    "GTFS Longitude": "-73.860341"
+    "GTFS Longitude": "-73.860341",
+    "North Direction Label": "Wakefield - 241 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "420",
@@ -6582,7 +7408,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.883895",
-    "GTFS Longitude": "-73.862633"
+    "GTFS Longitude": "-73.862633",
+    "North Direction Label": "Wakefield - 241 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "421",
@@ -6598,7 +7426,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.87785",
-    "GTFS Longitude": "-73.866256"
+    "GTFS Longitude": "-73.866256",
+    "North Direction Label": "Wakefield - 241 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "422",
@@ -6614,7 +7444,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.871356",
-    "GTFS Longitude": "-73.867164"
+    "GTFS Longitude": "-73.867164",
+    "North Direction Label": "Wakefield - 241 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "423",
@@ -6630,7 +7462,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.865462",
-    "GTFS Longitude": "-73.867352"
+    "GTFS Longitude": "-73.867352",
+    "North Direction Label": "Wakefield - 241 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "424",
@@ -6646,7 +7480,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.857192",
-    "GTFS Longitude": "-73.867615"
+    "GTFS Longitude": "-73.867615",
+    "North Direction Label": "Wakefield - 241 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "425",
@@ -6662,7 +7498,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.848828",
-    "GTFS Longitude": "-73.868457"
+    "GTFS Longitude": "-73.868457",
+    "North Direction Label": "Wakefield - 241 St",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "426",
@@ -6678,7 +7516,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.841894",
-    "GTFS Longitude": "-73.873488"
+    "GTFS Longitude": "-73.873488",
+    "North Direction Label": "Wakefield - Eastchester",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "427",
@@ -6694,7 +7534,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.840295",
-    "GTFS Longitude": "-73.880049"
+    "GTFS Longitude": "-73.880049",
+    "North Direction Label": "Wakefield - Eastchester",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "428",
@@ -6710,7 +7552,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.837288",
-    "GTFS Longitude": "-73.887734"
+    "GTFS Longitude": "-73.887734",
+    "North Direction Label": "Wakefield - Eastchester",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "429",
@@ -6726,7 +7570,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.829993",
-    "GTFS Longitude": "-73.891865"
+    "GTFS Longitude": "-73.891865",
+    "North Direction Label": "Wakefield - Eastchester",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "430",
@@ -6742,7 +7588,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.824073",
-    "GTFS Longitude": "-73.893064"
+    "GTFS Longitude": "-73.893064",
+    "North Direction Label": "Wakefield - Eastchester",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "431",
@@ -6758,7 +7606,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.822181",
-    "GTFS Longitude": "-73.896736"
+    "GTFS Longitude": "-73.896736",
+    "North Direction Label": "Wakefield - Eastchester",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "432",
@@ -6774,7 +7624,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.819585",
-    "GTFS Longitude": "-73.90177"
+    "GTFS Longitude": "-73.90177",
+    "North Direction Label": "Wakefield - Eastchester",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "433",
@@ -6790,7 +7642,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.81649",
-    "GTFS Longitude": "-73.907807"
+    "GTFS Longitude": "-73.907807",
+    "North Direction Label": "Wakefield - Eastchester",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "434",
@@ -6806,7 +7660,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.816109",
-    "GTFS Longitude": "-73.917757"
+    "GTFS Longitude": "-73.917757",
+    "North Direction Label": "Wakefield - Eastchester",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "435",
@@ -6822,7 +7678,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.81841",
-    "GTFS Longitude": "-73.926718"
+    "GTFS Longitude": "-73.926718",
+    "North Direction Label": "Wakefield - Eastchester",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "436",
@@ -6837,7 +7695,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.82388",
-    "GTFS Longitude": "-73.93647"
+    "GTFS Longitude": "-73.93647",
+    "North Direction Label": "",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "437",
@@ -6852,7 +7712,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.820421",
-    "GTFS Longitude": "-73.936245"
+    "GTFS Longitude": "-73.936245",
+    "North Direction Label": "148 St",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "438",
@@ -6868,7 +7730,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.814229",
-    "GTFS Longitude": "-73.94077"
+    "GTFS Longitude": "-73.94077",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "439",
@@ -6884,7 +7748,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.807754",
-    "GTFS Longitude": "-73.945495"
+    "GTFS Longitude": "-73.945495",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "440",
@@ -6900,7 +7766,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.802098",
-    "GTFS Longitude": "-73.949625"
+    "GTFS Longitude": "-73.949625",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "441",
@@ -6916,7 +7784,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.799075",
-    "GTFS Longitude": "-73.951822"
+    "GTFS Longitude": "-73.951822",
+    "North Direction Label": "Uptown & The Bronx",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "442",
@@ -6931,7 +7801,9 @@
     ],
     "Structure": "At Grade",
     "GTFS Latitude": "40.8883",
-    "GTFS Longitude": "-73.830834"
+    "GTFS Longitude": "-73.830834",
+    "North Direction Label": "",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "443",
@@ -6946,7 +7818,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.878663",
-    "GTFS Longitude": "-73.838591"
+    "GTFS Longitude": "-73.838591",
+    "North Direction Label": "Eastchester - Dyre Av",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "444",
@@ -6961,7 +7835,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.869526",
-    "GTFS Longitude": "-73.846384"
+    "GTFS Longitude": "-73.846384",
+    "North Direction Label": "Eastchester - Dyre Av",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "445",
@@ -6976,7 +7852,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.858985",
-    "GTFS Longitude": "-73.855359"
+    "GTFS Longitude": "-73.855359",
+    "North Direction Label": "Eastchester - Dyre Av",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "446",
@@ -6991,7 +7869,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.854364",
-    "GTFS Longitude": "-73.860495"
+    "GTFS Longitude": "-73.860495",
+    "North Direction Label": "Eastchester - Dyre Av",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "447",
@@ -7006,7 +7886,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.7596",
-    "GTFS Longitude": "-73.83003"
+    "GTFS Longitude": "-73.83003",
+    "North Direction Label": "",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "448",
@@ -7021,7 +7903,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.754622",
-    "GTFS Longitude": "-73.845625"
+    "GTFS Longitude": "-73.845625",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "449",
@@ -7036,7 +7920,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.75173",
-    "GTFS Longitude": "-73.855334"
+    "GTFS Longitude": "-73.855334",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "450",
@@ -7051,7 +7937,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.749865",
-    "GTFS Longitude": "-73.8627"
+    "GTFS Longitude": "-73.8627",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "451",
@@ -7066,7 +7954,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.749145",
-    "GTFS Longitude": "-73.869527"
+    "GTFS Longitude": "-73.869527",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "452",
@@ -7081,7 +7971,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.748408",
-    "GTFS Longitude": "-73.876613"
+    "GTFS Longitude": "-73.876613",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "453",
@@ -7096,7 +7988,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.747659",
-    "GTFS Longitude": "-73.883697"
+    "GTFS Longitude": "-73.883697",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "454",
@@ -7111,7 +8005,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.746848",
-    "GTFS Longitude": "-73.891394"
+    "GTFS Longitude": "-73.891394",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "455",
@@ -7126,7 +8022,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.746325",
-    "GTFS Longitude": "-73.896403"
+    "GTFS Longitude": "-73.896403",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "456",
@@ -7141,7 +8039,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.74563",
-    "GTFS Longitude": "-73.902984"
+    "GTFS Longitude": "-73.902984",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "457",
@@ -7156,7 +8056,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.744149",
-    "GTFS Longitude": "-73.912549"
+    "GTFS Longitude": "-73.912549",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "458",
@@ -7171,7 +8073,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.743132",
-    "GTFS Longitude": "-73.918435"
+    "GTFS Longitude": "-73.918435",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "459",
@@ -7186,7 +8090,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.743781",
-    "GTFS Longitude": "-73.924016"
+    "GTFS Longitude": "-73.924016",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "460",
@@ -7201,7 +8107,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.744587",
-    "GTFS Longitude": "-73.930997"
+    "GTFS Longitude": "-73.930997",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "461",
@@ -7216,7 +8124,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.750582",
-    "GTFS Longitude": "-73.940202"
+    "GTFS Longitude": "-73.940202",
+    "North Direction Label": "Astoria - Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "461",
@@ -7232,7 +8142,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.750582",
-    "GTFS Longitude": "-73.940202"
+    "GTFS Longitude": "-73.940202",
+    "North Direction Label": "Astoria - Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "462",
@@ -7247,7 +8159,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.747023",
-    "GTFS Longitude": "-73.945264"
+    "GTFS Longitude": "-73.945264",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "463",
@@ -7262,7 +8176,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.742216",
-    "GTFS Longitude": "-73.948916"
+    "GTFS Longitude": "-73.948916",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "464",
@@ -7277,7 +8193,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.742626",
-    "GTFS Longitude": "-73.953581"
+    "GTFS Longitude": "-73.953581",
+    "North Direction Label": "Flushing",
+    "South Direction Label": "Manhattan"
   },
   {
     "Station ID": "465",
@@ -7292,7 +8210,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.751431",
-    "GTFS Longitude": "-73.976041"
+    "GTFS Longitude": "-73.976041",
+    "North Direction Label": "Queens",
+    "South Direction Label": "34 St - Hudson Yards"
   },
   {
     "Station ID": "466",
@@ -7307,7 +8227,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.753821",
-    "GTFS Longitude": "-73.981963"
+    "GTFS Longitude": "-73.981963",
+    "North Direction Label": "Queens",
+    "South Direction Label": "34 St - Hudson Yards"
   },
   {
     "Station ID": "467",
@@ -7322,7 +8244,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.755477",
-    "GTFS Longitude": "-73.987691"
+    "GTFS Longitude": "-73.987691",
+    "North Direction Label": "Queens",
+    "South Direction Label": "34 St - Hudson Yards"
   },
   {
     "Station ID": "468",
@@ -7337,7 +8261,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.755983",
-    "GTFS Longitude": "-73.986229"
+    "GTFS Longitude": "-73.986229",
+    "North Direction Label": "",
+    "South Direction Label": "Grand Central"
   },
   {
     "Station ID": "469",
@@ -7352,7 +8278,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.752769",
-    "GTFS Longitude": "-73.979189"
+    "GTFS Longitude": "-73.979189",
+    "North Direction Label": "Times Sq",
+    "South Direction Label": ""
   },
   {
     "Station ID": "471",
@@ -7367,7 +8295,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.755882",
-    "GTFS Longitude": "-74.00191"
+    "GTFS Longitude": "-74.00191",
+    "North Direction Label": "Queens",
+    "South Direction Label": ""
   },
   {
     "Station ID": "475",
@@ -7382,7 +8312,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.784318",
-    "GTFS Longitude": "-73.947152"
+    "GTFS Longitude": "-73.947152",
+    "North Direction Label": "",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "476",
@@ -7397,7 +8329,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.777891",
-    "GTFS Longitude": "-73.951787"
+    "GTFS Longitude": "-73.951787",
+    "North Direction Label": "Uptown",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "477",
@@ -7412,7 +8346,9 @@
     ],
     "Structure": "Subway",
     "GTFS Latitude": "40.768799",
-    "GTFS Longitude": "-73.958424"
+    "GTFS Longitude": "-73.958424",
+    "North Direction Label": "Uptown",
+    "South Direction Label": "Downtown & Brooklyn"
   },
   {
     "Station ID": "501",
@@ -7427,7 +8363,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.643748",
-    "GTFS Longitude": "-74.073643"
+    "GTFS Longitude": "-74.073643",
+    "North Direction Label": "",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "502",
@@ -7442,7 +8380,9 @@
     ],
     "Structure": "At Grade",
     "GTFS Latitude": "40.636949",
-    "GTFS Longitude": "-74.074835"
+    "GTFS Longitude": "-74.074835",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "503",
@@ -7457,7 +8397,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.627915",
-    "GTFS Longitude": "-74.075162"
+    "GTFS Longitude": "-74.075162",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "504",
@@ -7472,7 +8414,9 @@
     ],
     "Structure": "Elevated",
     "GTFS Latitude": "40.621319",
-    "GTFS Longitude": "-74.071402"
+    "GTFS Longitude": "-74.071402",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "505",
@@ -7487,7 +8431,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.603117",
-    "GTFS Longitude": "-74.084087"
+    "GTFS Longitude": "-74.084087",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "506",
@@ -7502,7 +8448,9 @@
     ],
     "Structure": "Embankment",
     "GTFS Latitude": "40.596612",
-    "GTFS Longitude": "-74.087368"
+    "GTFS Longitude": "-74.087368",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "507",
@@ -7517,7 +8465,9 @@
     ],
     "Structure": "Embankment",
     "GTFS Latitude": "40.588849",
-    "GTFS Longitude": "-74.09609"
+    "GTFS Longitude": "-74.09609",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "508",
@@ -7532,7 +8482,9 @@
     ],
     "Structure": "Embankment",
     "GTFS Latitude": "40.583591",
-    "GTFS Longitude": "-74.103338"
+    "GTFS Longitude": "-74.103338",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "509",
@@ -7547,7 +8499,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.578965",
-    "GTFS Longitude": "-74.109704"
+    "GTFS Longitude": "-74.109704",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "510",
@@ -7562,7 +8516,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.57348",
-    "GTFS Longitude": "-74.11721"
+    "GTFS Longitude": "-74.11721",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "511",
@@ -7577,7 +8533,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.56511",
-    "GTFS Longitude": "-74.12632"
+    "GTFS Longitude": "-74.12632",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "512",
@@ -7592,7 +8550,9 @@
     ],
     "Structure": "Embankment",
     "GTFS Latitude": "40.5564",
-    "GTFS Longitude": "-74.136907"
+    "GTFS Longitude": "-74.136907",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "513",
@@ -7607,7 +8567,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.551231",
-    "GTFS Longitude": "-74.151399"
+    "GTFS Longitude": "-74.151399",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "514",
@@ -7622,7 +8584,9 @@
     ],
     "Structure": "Embankment",
     "GTFS Latitude": "40.544601",
-    "GTFS Longitude": "-74.16457"
+    "GTFS Longitude": "-74.16457",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "515",
@@ -7637,7 +8601,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.54046",
-    "GTFS Longitude": "-74.178217"
+    "GTFS Longitude": "-74.178217",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "516",
@@ -7652,7 +8618,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.533674",
-    "GTFS Longitude": "-74.191794"
+    "GTFS Longitude": "-74.191794",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "517",
@@ -7667,7 +8635,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.525507",
-    "GTFS Longitude": "-74.200064"
+    "GTFS Longitude": "-74.200064",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "518",
@@ -7682,7 +8652,9 @@
     ],
     "Structure": "Embankment",
     "GTFS Latitude": "40.52241",
-    "GTFS Longitude": "-74.217847"
+    "GTFS Longitude": "-74.217847",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "519",
@@ -7697,7 +8669,9 @@
     ],
     "Structure": "Open Cut",
     "GTFS Latitude": "40.519631",
-    "GTFS Longitude": "-74.229141"
+    "GTFS Longitude": "-74.229141",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   },
   {
     "Station ID": "522",
@@ -7712,7 +8686,9 @@
     ],
     "Structure": "At Grade",
     "GTFS Latitude": "40.512764",
-    "GTFS Longitude": "-74.251961"
+    "GTFS Longitude": "-74.251961",
+    "North Direction Label": "St George",
+    "South Direction Label": ""
   },
   {
     "Station ID": "523",
@@ -7727,6 +8703,8 @@
     ],
     "Structure": "At Grade",
     "GTFS Latitude": "40.516578",
-    "GTFS Longitude": "-74.242096"
+    "GTFS Longitude": "-74.242096",
+    "North Direction Label": "St George",
+    "South Direction Label": "Tottenville"
   }
 ]
